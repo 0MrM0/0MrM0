@@ -12,9 +12,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0MrM0&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
--
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
